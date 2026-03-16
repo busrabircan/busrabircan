@@ -94,21 +94,11 @@ Areas I am interested in:
 - Agricultural technologies
 - Dairy production systems
 - Financial analysis tools
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
+- LinkedIn : https://www.linkedin.com/in/b%C3%BC%C5%9Fraibircan/
 
 ---
 
